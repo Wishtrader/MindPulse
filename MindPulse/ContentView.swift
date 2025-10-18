@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
   var body: some View {
-    IntroView()
+    IntroView(
   }
 }
   
@@ -18,6 +18,5 @@ struct ContentView: View {
       ContentView()
     }
   }
-
 
 // https://youtu.be/YNxjQWYYwCU?t=158
